@@ -1,0 +1,8 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,Barghest Minion 1,Hero 1,Barghest Minion 3,Barghest Minion 2,Hero 3,Hero 2,Hero 4,Goblin Minion 3,Goblin Minion 4,Goblin Minion 1,Goblin Minion 2,Goblin Master,Barghest Master
+-641580326,Descent2e,0,ABOUT_TO_START,0,0,3,2,"(11,6)","(2,16)",,,,"(1,16)",,,,"(4,6)","(3,4)","(3,2)","(10,4)"
+-641580326,Descent2e,0,ROUND_OVER,55,7,3,2,"(8,2)","(8,9)",,,,"(10,10)",,,,"(5,12)","(10,11)","(4,11)","(10,4)"
+-641580326,Descent2e,1,ROUND_OVER,72,7,3,2,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,11)","(4,11)","(10,4)"
+-641580326,Descent2e,2,ROUND_OVER,101,7,3,2,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,12)","(4,11)","(10,4)"
+-641580326,Descent2e,3,ROUND_OVER,124,7,3,2,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,12)","(4,11)","(10,4)"
+-641580326,Descent2e,4,ROUND_OVER,148,7,3,2,"(8,2)","(8,8)",,,,"(4,17)",,,,"(5,17)","(10,12)","(4,11)","(10,4)"
+-641580326,Descent2e,5,GAME_OVER,149,0,3,2,"(8,2)","(8,8)",,,,"(4,17)",,,,"(5,17)","(10,12)","(4,11)","(10,4)"

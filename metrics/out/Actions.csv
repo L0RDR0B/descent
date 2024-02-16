@@ -1,0 +1,150 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,Player-1,Actions Played Description,Player-0,Size-OSLA,Player-2,OSLA,Action Space Size,Actions Played
+-641580326,Descent2e,0,ACTION_CHOSEN,0,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,1,0,3,2,"Move by 7799 to (3,15)",Move: NE,,7,,"Move by 7799 to (3,15)",7,"Move by 7799 to (3,15)"
+-641580326,Descent2e,0,ACTION_CHOSEN,2,0,3,2,"Move by 7799 to (4,15)",Move: E,,9,,"Move by 7799 to (4,15)",9,"Move by 7799 to (4,15)"
+-641580326,Descent2e,0,ACTION_CHOSEN,3,0,3,2,"Move by 7799 to (5,14)",Move: NE,,10,,"Move by 7799 to (5,14)",10,"Move by 7799 to (5,14)"
+-641580326,Descent2e,0,ACTION_CHOSEN,4,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,5,0,3,2,"Move by 7799 to (6,15)",Move: SE,,9,,"Move by 7799 to (6,15)",9,"Move by 7799 to (6,15)"
+-641580326,Descent2e,0,ACTION_CHOSEN,6,0,3,2,"Move by 7799 to (7,14)",Move: NE,,10,,"Move by 7799 to (7,14)",10,"Move by 7799 to (7,14)"
+-641580326,Descent2e,0,ACTION_CHOSEN,7,0,3,2,"Move by 7799 to (8,13)",Move: NE,,7,,"Move by 7799 to (8,13)",7,"Move by 7799 to (8,13)"
+-641580326,Descent2e,0,ACTION_CHOSEN,8,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,2,,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,9,0,3,2,"Move by 7799 to (8,12)",Move: N,,9,,"Move by 7799 to (8,12)",9,"Move by 7799 to (8,12)"
+-641580326,Descent2e,0,ACTION_CHOSEN,10,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,2,,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,11,0,3,2,"Move by 7799 to (8,11)",Move: N,,9,,"Move by 7799 to (8,11)",9,"Move by 7799 to (8,11)"
+-641580326,Descent2e,0,ACTION_CHOSEN,12,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,2,,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,13,0,3,2,"Move by 7799 to (7,10)",Move: NW,,10,,"Move by 7799 to (7,10)",10,"Move by 7799 to (7,10)"
+-641580326,Descent2e,0,ACTION_CHOSEN,14,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,2,,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,15,0,3,2,"Move by 7799 to (8,9)",Move: NE,,6,,"Move by 7799 to (8,9)",6,"Move by 7799 to (8,9)"
+-641580326,Descent2e,0,ACTION_CHOSEN,16,1,3,2,,Get Movement Points,,3,Get Movement Points,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,17,1,3,2,,"Move: NE, SE, E, SE",,7,"Move by 7812 to (5,17)","Move by 7812 to (5,17)",7,"Move by 7812 to (5,17)"
+-641580326,Descent2e,0,ACTION_CHOSEN,18,1,3,2,,Get Movement Points,,3,Get Movement Points,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,19,1,3,2,,"Move: NE, E, NE, E",,11,"Move by 7812 to (9,15)","Move by 7812 to (9,15)",11,"Move by 7812 to (9,15)"
+-641580326,Descent2e,0,ACTION_CHOSEN,20,1,3,2,,Spent 1 Stamina For 1 Movement Point,,2,Fatigue Movement Point,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,21,1,3,2,,Move: NE,,7,"Move by 7812 to (10,14)","Move by 7812 to (10,14)",7,"Move by 7812 to (10,14)"
+-641580326,Descent2e,0,ACTION_CHOSEN,22,1,3,2,,Spent 1 Stamina For 1 Movement Point,,2,Fatigue Movement Point,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,23,1,3,2,,Spent 1 Stamina For 1 Movement Point,,4,Fatigue Movement Point,Fatigue Movement Point,4,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,24,1,3,2,,"Move: NW, NE",,5,"Move by 7812 to (10,12)","Move by 7812 to (10,12)",5,"Move by 7812 to (10,12)"
+-641580326,Descent2e,0,ACTION_CHOSEN,25,1,3,2,,Spent 1 Stamina For 1 Movement Point,,2,Fatigue Movement Point,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,26,1,3,2,,Move: N,,3,"Move by 7812 to (10,11)","Move by 7812 to (10,11)",3,"Move by 7812 to (10,11)"
+-641580326,Descent2e,0,ACTION_CHOSEN,27,1,3,2,,Spent 1 Stamina For 1 Movement Point,,2,Fatigue Movement Point,Fatigue Movement Point,2,Fatigue Movement Point
+-641580326,Descent2e,0,ACTION_CHOSEN,28,1,3,2,,Move: N,,3,"Move by 7812 to (10,10)","Move by 7812 to (10,10)",3,"Move by 7812 to (10,10)"
+-641580326,Descent2e,0,ACTION_CHOSEN,29,2,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,30,2,3,2,,Move: SW,"Move by 7823 to (2,3)",8,,"Move by 7823 to (2,3)",8,"Move by 7823 to (2,3)"
+-641580326,Descent2e,0,ACTION_CHOSEN,31,2,3,2,,"Move: SE, S","Move by 7823 to (3,5)",10,,"Move by 7823 to (3,5)",10,"Move by 7823 to (3,5)"
+-641580326,Descent2e,0,ACTION_CHOSEN,32,2,3,2,,"Move: SE, S","Move by 7823 to (4,7)",15,,"Move by 7823 to (4,7)",15,"Move by 7823 to (4,7)"
+-641580326,Descent2e,0,ACTION_CHOSEN,33,2,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,34,2,3,2,,Move: SE,"Move by 7823 to (5,8)",11,,"Move by 7823 to (5,8)",11,"Move by 7823 to (5,8)"
+-641580326,Descent2e,0,ACTION_CHOSEN,35,2,3,2,,Move: S,"Move by 7823 to (5,9)",5,,"Move by 7823 to (5,9)",5,"Move by 7823 to (5,9)"
+-641580326,Descent2e,0,ACTION_CHOSEN,36,2,3,2,,Move: S,"Move by 7823 to (5,10)",6,,"Move by 7823 to (5,10)",6,"Move by 7823 to (5,10)"
+-641580326,Descent2e,0,ACTION_CHOSEN,37,2,3,2,,Move: SW,"Move by 7823 to (4,11)",3,,"Move by 7823 to (4,11)",3,"Move by 7823 to (4,11)"
+-641580326,Descent2e,0,ACTION_CHOSEN,38,3,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,39,3,3,2,,"Move: SE, SW, S, SE","Move by 7833 to (5,10)",12,,"Move by 7833 to (5,10)",12,"Move by 7833 to (5,10)"
+-641580326,Descent2e,0,ACTION_CHOSEN,40,3,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,41,3,3,2,,"Move: SW, SE","Move by 7833 to (5,12)",9,,"Move by 7833 to (5,12)",9,"Move by 7833 to (5,12)"
+-641580326,Descent2e,0,ACTION_CHOSEN,42,3,3,2,,End Turn,End Turn,4,,End Turn,4,End Turn
+-641580326,Descent2e,0,ACTION_CHOSEN,43,4,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,44,4,3,2,,"Move: SE, E, SE, SE","Move by 7843 to (7,7)",6,,"Move by 7843 to (7,7)",6,"Move by 7843 to (7,7)"
+-641580326,Descent2e,0,ACTION_CHOSEN,45,4,3,2,,Move: SE,"Move by 7843 to (8,8)",4,,"Move by 7843 to (8,8)",4,"Move by 7843 to (8,8)"
+-641580326,Descent2e,0,ACTION_CHOSEN,46,4,3,2,,Get Movement Points,Get Movement Points,4,,Get Movement Points,4,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,47,4,3,2,,"Move: S, SE, SE","Move by 7843 to (10,11)",9,,"Move by 7843 to (10,11)",9,"Move by 7843 to (10,11)"
+-641580326,Descent2e,0,ACTION_CHOSEN,48,4,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,0,ACTION_CHOSEN,49,5,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,0,ACTION_CHOSEN,50,6,3,2,,Howl,Call Attribute Test by 7863 on 7799,3,,Call Attribute Test by 7863 on 7799,3,Call Attribute Test by 7863 on 7799
+-641580326,Descent2e,0,ACTION_CHOSEN,51,6,3,2,,,,1,,,1,
+-641580326,Descent2e,0,ACTION_CHOSEN,52,6,3,2,,,,1,,,1,
+-641580326,Descent2e,0,ACTION_CHOSEN,53,6,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,0,ACTION_CHOSEN,54,6,3,2,,"Move: NW, N, NW; Orientation: LEFT","Move by 7863 to (9,3)",17,,"Move by 7863 to (9,3)",17,"Move by 7863 to (9,3)"
+-641580326,Descent2e,0,ACTION_CHOSEN,55,6,3,2,,Move: NW; Orientation: DOWN,"Move by 7863 to (8,2)",12,,"Move by 7863 to (8,2)",12,"Move by 7863 to (8,2)"
+-641580326,Descent2e,1,ACTION_CHOSEN,56,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,1,ACTION_CHOSEN,57,0,3,2,"Move by 7799 to (8,8)",Move: N,,6,,"Move by 7799 to (8,8)",6,"Move by 7799 to (8,8)"
+-641580326,Descent2e,1,ACTION_CHOSEN,58,0,3,2,Rest,Rest,,4,,Rest,4,Rest
+-641580326,Descent2e,1,ACTION_CHOSEN,59,0,3,2,End Turn,End Turn,,3,,End Turn,3,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,60,1,3,2,,Get Movement Points,,6,Get Movement Points,Get Movement Points,6,Get Movement Points
+-641580326,Descent2e,1,ACTION_CHOSEN,61,1,3,2,,Rest,,7,Rest,Rest,7,Rest
+-641580326,Descent2e,1,ACTION_CHOSEN,62,1,3,2,,End Turn,,3,End Turn,End Turn,3,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,63,2,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,1,ACTION_CHOSEN,64,2,3,2,,End Turn,End Turn,6,,End Turn,6,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,65,3,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,1,ACTION_CHOSEN,66,3,3,2,,"Move: SW, SW, S, SE, SE","Move by 7833 to (5,17)",5,,"Move by 7833 to (5,17)",5,"Move by 7833 to (5,17)"
+-641580326,Descent2e,1,ACTION_CHOSEN,67,3,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,68,4,3,2,,Get Movement Points,Get Movement Points,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,1,ACTION_CHOSEN,69,4,3,2,,Ranged Attack by Goblin Archer minion on Leoric of the Book (Range: 1.0),Ranged Attack by 7843 on 7812,6,,Ranged Attack by 7843 on 7812,6,Ranged Attack by 7843 on 7812
+-641580326,Descent2e,1,ACTION_CHOSEN,70,4,3,2,,End Turn,End Turn,5,,End Turn,5,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,71,5,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,1,ACTION_CHOSEN,72,6,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,73,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,2,ACTION_CHOSEN,74,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,4,,Fatigue Movement Point,4,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,75,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,76,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,77,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,78,0,3,2,Rest,Rest,,4,,Rest,4,Rest
+-641580326,Descent2e,2,ACTION_CHOSEN,79,0,3,2,End Turn,End Turn,,3,,End Turn,3,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,80,1,3,2,,Free Action: Restore +2 Health,,7,games.descent2e.actions.Restore@b021c1c3,games.descent2e.actions.Restore@b021c1c3,7,games.descent2e.actions.Restore@b021c1c3
+-641580326,Descent2e,2,ACTION_CHOSEN,81,1,3,2,,Get Movement Points,,5,Get Movement Points,Get Movement Points,5,Get Movement Points
+-641580326,Descent2e,2,ACTION_CHOSEN,82,1,3,2,,Spent 1 Stamina For 1 Movement Point,,6,Fatigue Movement Point,Fatigue Movement Point,6,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,83,1,3,2,,Spent 1 Stamina For 1 Movement Point,,8,Fatigue Movement Point,Fatigue Movement Point,8,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,84,1,3,2,,Spent 1 Stamina For 1 Movement Point,,11,Fatigue Movement Point,Fatigue Movement Point,11,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,85,1,3,2,,Spent 1 Stamina For 1 Movement Point,,14,Fatigue Movement Point,Fatigue Movement Point,14,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,86,1,3,2,,Spent 1 Stamina For 1 Movement Point,,18,Fatigue Movement Point,Fatigue Movement Point,18,Fatigue Movement Point
+-641580326,Descent2e,2,ACTION_CHOSEN,87,1,3,2,,Rest,,18,Rest,Rest,18,Rest
+-641580326,Descent2e,2,ACTION_CHOSEN,88,1,3,2,,"Move: SW, SE",,15,"Move by 7812 to (10,12)","Move by 7812 to (10,12)",15,"Move by 7812 to (10,12)"
+-641580326,Descent2e,2,ACTION_CHOSEN,89,1,3,2,,"Move: NW, NE",,14,"Move by 7812 to (10,10)","Move by 7812 to (10,10)",14,"Move by 7812 to (10,10)"
+-641580326,Descent2e,2,ACTION_CHOSEN,90,1,3,2,,"Move: SW, SE",,4,"Move by 7812 to (10,12)","Move by 7812 to (10,12)",4,"Move by 7812 to (10,12)"
+-641580326,Descent2e,2,ACTION_CHOSEN,91,1,3,2,,"Move: NW, NE",,4,"Move by 7812 to (10,10)","Move by 7812 to (10,10)",4,"Move by 7812 to (10,10)"
+-641580326,Descent2e,2,ACTION_CHOSEN,92,1,3,2,,End Turn,,1,End Turn,End Turn,1,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,93,2,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,2,ACTION_CHOSEN,94,2,3,2,,End Turn,End Turn,6,,End Turn,6,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,95,3,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,96,4,3,2,,Get Movement Points,Get Movement Points,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,2,ACTION_CHOSEN,97,4,3,2,,Move: S,"Move by 7843 to (10,12)",7,,"Move by 7843 to (10,12)",7,"Move by 7843 to (10,12)"
+-641580326,Descent2e,2,ACTION_CHOSEN,98,4,3,2,,Ranged Attack by Goblin Archer minion on Leoric of the Book (Range: 2.0),Ranged Attack by 7843 on 7812,6,,Ranged Attack by 7843 on 7812,6,Ranged Attack by 7843 on 7812
+-641580326,Descent2e,2,ACTION_CHOSEN,99,4,3,2,,End Turn,End Turn,6,,End Turn,6,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,100,5,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,2,ACTION_CHOSEN,101,6,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,102,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,3,ACTION_CHOSEN,103,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,4,,Fatigue Movement Point,4,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,104,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,105,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,106,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,107,0,3,2,Rest,Rest,,4,,Rest,4,Rest
+-641580326,Descent2e,3,ACTION_CHOSEN,108,0,3,2,End Turn,End Turn,,3,,End Turn,3,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,109,1,3,2,,Free Action: Restore +2 Health,,4,games.descent2e.actions.Restore@b021c1c3,games.descent2e.actions.Restore@b021c1c3,4,games.descent2e.actions.Restore@b021c1c3
+-641580326,Descent2e,3,ACTION_CHOSEN,110,1,3,2,,Get Movement Points,,3,Get Movement Points,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,3,ACTION_CHOSEN,111,1,3,2,,Spent 1 Stamina For 1 Movement Point,,3,Fatigue Movement Point,Fatigue Movement Point,3,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,112,1,3,2,,Spent 1 Stamina For 1 Movement Point,,5,Fatigue Movement Point,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,113,1,3,2,,Spent 1 Stamina For 1 Movement Point,,8,Fatigue Movement Point,Fatigue Movement Point,8,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,114,1,3,2,,Spent 1 Stamina For 1 Movement Point,,11,Fatigue Movement Point,Fatigue Movement Point,11,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,115,1,3,2,,Spent 1 Stamina For 1 Movement Point,,15,Fatigue Movement Point,Fatigue Movement Point,15,Fatigue Movement Point
+-641580326,Descent2e,3,ACTION_CHOSEN,116,1,3,2,,Rest,,15,Rest,Rest,15,Rest
+-641580326,Descent2e,3,ACTION_CHOSEN,117,1,3,2,,End Turn,,14,End Turn,End Turn,14,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,118,2,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,3,ACTION_CHOSEN,119,2,3,2,,End Turn,End Turn,6,,End Turn,6,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,120,3,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,121,4,3,2,,Get Movement Points,Get Movement Points,2,,Get Movement Points,2,Get Movement Points
+-641580326,Descent2e,3,ACTION_CHOSEN,122,4,3,2,,End Turn,End Turn,7,,End Turn,7,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,123,5,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,3,ACTION_CHOSEN,124,6,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,125,0,3,2,Get Movement Points,Get Movement Points,,3,,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,4,ACTION_CHOSEN,126,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,4,,Fatigue Movement Point,4,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,127,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,128,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,129,0,3,2,Fatigue Movement Point,Spent 1 Stamina For 1 Movement Point,,5,,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,130,0,3,2,Rest,Rest,,4,,Rest,4,Rest
+-641580326,Descent2e,4,ACTION_CHOSEN,131,0,3,2,End Turn,End Turn,,3,,End Turn,3,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,132,1,3,2,,Get Movement Points,,3,Get Movement Points,Get Movement Points,3,Get Movement Points
+-641580326,Descent2e,4,ACTION_CHOSEN,133,1,3,2,,Spent 1 Stamina For 1 Movement Point,,3,Fatigue Movement Point,Fatigue Movement Point,3,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,134,1,3,2,,Spent 1 Stamina For 1 Movement Point,,5,Fatigue Movement Point,Fatigue Movement Point,5,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,135,1,3,2,,Spent 1 Stamina For 1 Movement Point,,8,Fatigue Movement Point,Fatigue Movement Point,8,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,136,1,3,2,,Spent 1 Stamina For 1 Movement Point,,11,Fatigue Movement Point,Fatigue Movement Point,11,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,137,1,3,2,,Spent 1 Stamina For 1 Movement Point,,15,Fatigue Movement Point,Fatigue Movement Point,15,Fatigue Movement Point
+-641580326,Descent2e,4,ACTION_CHOSEN,138,1,3,2,,Rest,,15,Rest,Rest,15,Rest
+-641580326,Descent2e,4,ACTION_CHOSEN,139,1,3,2,,"Move: SW, S, SW, SW, SW, W, S, SW",,14,"Move by 7812 to (4,17)","Move by 7812 to (4,17)",14,"Move by 7812 to (4,17)"
+-641580326,Descent2e,4,ACTION_CHOSEN,140,1,3,2,,End Turn,,1,End Turn,End Turn,1,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,141,2,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,142,3,3,2,,Ranged Attack by Goblin Archer minion on Leoric of the Book (Range: 1.0),Ranged Attack by 7833 on 7812,3,,Ranged Attack by 7833 on 7812,3,Ranged Attack by 7833 on 7812
+-641580326,Descent2e,4,ACTION_CHOSEN,143,3,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,144,4,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,145,5,3,2,,End Turn,End Turn,3,,End Turn,3,End Turn
+-641580326,Descent2e,4,ACTION_CHOSEN,146,6,3,2,,Howl,Call Attribute Test by 7863 on 7799,3,,Call Attribute Test by 7863 on 7799,3,Call Attribute Test by 7863 on 7799
+-641580326,Descent2e,4,ACTION_CHOSEN,147,6,3,2,,,,1,,,1,
+-641580326,Descent2e,4,ACTION_CHOSEN,148,6,3,2,,End Turn,End Turn,2,,End Turn,2,End Turn

@@ -1,0 +1,6 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,RoundCounter(RoundCounter),Positions(Barghest Minion 1),Positions(Hero 1),Positions(Barghest Minion 3),Positions(Barghest Minion 2),Positions(Hero 3),Positions(Hero 2),Positions(Hero 4),Positions(Goblin Minion 3),Positions(Goblin Minion 4),Positions(Goblin Minion 1),Positions(Goblin Minion 2),Positions(Goblin Master),Positions(Barghest Master),GameScore(LeaderGap),GameScore(PlayerName-0),GameScore(Player-1),GameScore(Average),GameScore(Player-0),GameScore(Player-2),GameScore(PlayerName-1),GameScore(PlayerName-2)
+-641580326,Descent2e,0,ROUND_OVER,55,7,3,2,,"(8,2)","(8,9)",,,,"(10,10)",,,,"(5,12)","(10,11)","(4,11)","(10,4)",0.0,OSLA,0.0,0.0,0.0,0.0,OSLA,OSLA
+-641580326,Descent2e,1,ROUND_OVER,72,7,3,2,,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,11)","(4,11)","(10,4)",0.0,OSLA,0.0,0.0,0.0,0.0,OSLA,OSLA
+-641580326,Descent2e,2,ROUND_OVER,101,7,3,2,,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,12)","(4,11)","(10,4)",0.0,OSLA,0.0,0.0,0.0,0.0,OSLA,OSLA
+-641580326,Descent2e,3,ROUND_OVER,124,7,3,2,,"(8,2)","(8,8)",,,,"(10,10)",,,,"(5,17)","(10,12)","(4,11)","(10,4)",0.0,OSLA,0.0,0.0,0.0,0.0,OSLA,OSLA
+-641580326,Descent2e,4,ROUND_OVER,148,7,3,2,,"(8,2)","(8,8)",,,,"(4,17)",,,,"(5,17)","(10,12)","(4,11)","(10,4)",0.0,OSLA,0.0,0.0,0.0,0.0,OSLA,OSLA
