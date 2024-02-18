@@ -1,0 +1,1382 @@
+Game: Descent2e, Players: 4
+Game Seed: 1708129173156
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+Playing Descent2e
+[BasicMCTS,BasicMCTS]
+Game Seed: -84488275
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -611313646
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1731327576
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1030049306
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -332434317
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Tomble Burrowell is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 204336152
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 114044284
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1126255906
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -407615820
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 270862216
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1291781659
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1474588018
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 697030021
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 956090341
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Jain Fairwood is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1498501206
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -164530892
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -792746254
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1589492708
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1261642724
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -450095454
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1046689982
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1087748963
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Timeout! The game ends in a draw.
+[TIMEOUT,TIMEOUT]
+[BasicMCTS,BasicMCTS]
+Game Seed: 430231772
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 301146624
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -589854594
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 605096602
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 970052066
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1218200676
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 866989620
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -47842161
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Timeout! The game ends in a draw.
+[TIMEOUT,TIMEOUT]
+[BasicMCTS,BasicMCTS]
+Game Seed: -244636835
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -410429852
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 25608568
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -315373361
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1721235730
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1756951828
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 172730667
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -26441638
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1988733455
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1146669230
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 700752511
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1506964002
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Tomble Burrowell is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1627911882
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1722747047
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -933116486
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -968323800
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 83430792
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 379763279
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -189775047
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1670167081
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1673858813
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -620912172
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1157110601
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 469411154
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1034279610
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1774101494
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 783867599
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1640918021
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Jain Fairwood is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1678493404
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1415472902
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1703327422
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 685957540
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1425051607
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1689921933
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1606762606
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Round: 12
+Round: 13
+Round: 14
+Round: 15
+Round: 16
+Round: 17
+Round: 18
+Round: 19
+Timeout! The game ends in a draw.
+[TIMEOUT,TIMEOUT]
+[BasicMCTS,BasicMCTS]
+Game Seed: -225376959
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1702859030
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -588199003
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1187448657
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1908777951
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -19063564
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -464392183
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -919846969
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -2107764011
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1049473689
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1439313004
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Jain Fairwood is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 255801388
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -790542024
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Widow Tarha is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1632740047
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 743913869
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Tomble Burrowell is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -158315121
+Game begin!
+Hero: Tomble Burrowell is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1270805651
+Game begin!
+Hero: Leoric of the Book is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 732526831
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -155048468
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -432560100
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1277076695
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -2005341752
+Game begin!
+Hero: Ashrian is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1211112216
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1796206592
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Tomble Burrowell is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 652297104
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Grisban the Thirsty is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1817228092
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Grisban the Thirsty is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1308411128
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Syndrael is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1167325909
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Ashrian is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 31869529
+Game begin!
+Hero: Jain Fairwood is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Syndrael is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1654391629
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1868522600
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Jain Fairwood is controlled by Player 2
+Hero: Leoric of the Book is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -1686237354
+Game begin!
+Hero: Syndrael is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Avric Albright is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -188126062
+Game begin!
+Hero: Grisban the Thirsty is controlled by Player 1
+Hero: Ashrian is controlled by Player 2
+Hero: Widow Tarha is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: -451448212
+Game begin!
+Hero: Widow Tarha is controlled by Player 1
+Hero: Avric Albright is controlled by Player 2
+Hero: Jain Fairwood is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+[BasicMCTS,BasicMCTS]
+Game Seed: 1905904503
+Game begin!
+Hero: Avric Albright is controlled by Player 1
+Hero: Leoric of the Book is controlled by Player 2
+Hero: Tomble Burrowell is controlled by Player 3
+Round: 0
+Round: 1
+Round: 2
+Round: 3
+Defeat! The Overlord wins!
+[LOSE_GAME,WIN_GAME]
+============= Descent2e - 100 games played ============= 
+BasicMCTS got 97.00 points. BasicMCTS won 97.0% of the 100 games of the tournament. BasicMCTS won 48.5% of the 200 games it played during the tournament.
+
+---- Ranking ---- 
+BasicMCTS: Win rate 0.49 +/- 0.02	Mean Ordinal 1.00 +/- 0.00
